@@ -4,6 +4,7 @@
 	"description": "中英文单词翻译",
 	"repository": "https://github.com/nandehutuzn/simple-translate.git",
 	"version": "0.0.1",
+	"publisher": "zhangn",
 	"engines": {
 		"vscode": "^1.55.0"
 	},
